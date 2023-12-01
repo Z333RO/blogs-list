@@ -1,6 +1,9 @@
 # blogs-list
 List of Cybersecurity blogs I've written with links. 
 
+Attacking and Defending SCADA Systems
+- https://www.altimetrik.com/attacking-and-defending-scada-systems
+
 OWASP API Top 10 – Most Common Attacks and How to Prevent Them – Part I
 - https://www.altimetrik.com/owasp-api-top-10-most-common-attacks-and-how-to-prevent-them-part-i/
 
