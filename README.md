@@ -7,9 +7,6 @@ Attacking and Defending SCADA Systems
 OWASP API Top 10 – Most Common Attacks and How to Prevent Them – Part I
 - https://www.altimetrik.com/owasp-api-top-10-most-common-attacks-and-how-to-prevent-them-part-i/
 
-The Altimetrik Guide to Training Security Analysts for Success
-- https://www.altimetrik.com/the-altimetrik-guide-to-training-security-analysts-for-success/
-
 Mobile App Security: The Imperative for Mobile Penetration Testing
 - https://www.altimetrik.com/pentesting-mobile-application-apis/
 
