@@ -1,3 +1,7 @@
+# video-content
+Keys to Secure Code: Reducing Risk for Software Teams Pt II 
+https://www.youtube.com/watch?v=KQ2--Ua4jOI
+
 # blogs-list
 List of Cybersecurity blogs I've written with links. 
 
