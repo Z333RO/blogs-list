@@ -1,5 +1,5 @@
 # video-content
-Keys to Secure Code: Reducing Risk for Software Teams Pt II 
+- Keys to Secure Code: Reducing Risk for Software Teams Pt II 
 https://www.youtube.com/watch?v=KQ2--Ua4jOI
 
 # blogs-list
