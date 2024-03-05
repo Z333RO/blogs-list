@@ -23,7 +23,7 @@ Altimetrik Top 5 CVEs of November 2022
 The Altimetrik Guide to Training Security Analysts for Success
 - https://www.altimetrik.com/the-altimetrik-guide-to-training-security-analysts-for-success/
 
-# Datasheets
+# datasheets
 Mobile Application Security Datasheet
 - https://www.altimetrik.com/storage/2024/02/Mobile-Application-Security-Datasheet.pdf
 
