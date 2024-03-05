@@ -5,6 +5,9 @@ Keys to Secure Code: Reducing Risk for Software Teams Pt II
 # blogs-list
 List of Cybersecurity blogs I've written with links. 
 
+CBEST Explained
+- https://www.altimetrik.com/blog/cbest-framework-explained/
+
 Attacking and Defending SCADA Systems
 - https://www.altimetrik.com/attacking-and-defending-scada-systems
 
@@ -19,3 +22,10 @@ Altimetrik Top 5 CVEs of November 2022
 
 The Altimetrik Guide to Training Security Analysts for Success
 - https://www.altimetrik.com/the-altimetrik-guide-to-training-security-analysts-for-success/
+
+# Datasheets
+Mobile Application Security Datasheet
+- https://www.altimetrik.com/storage/2024/02/Mobile-Application-Security-Datasheet.pdf
+
+ICS - SCADA - OT Datasheet
+- https://www.altimetrik.com/storage/2023/11/Altimetrik_ICS_SCADA_OT.pdf
