@@ -5,8 +5,13 @@ Altimetrik Information Security: Expert Insights
 Keys to Secure Code: Reducing Risk for Software Teams Pt II 
 - https://www.youtube.com/watch?v=KQ2--Ua4jOI
 
+# white papers
+
+Altimetrik AI Security: Comprehensive Solutions for Threat Detection, Governance, and Compliance
+- https://www.altimetrik.com/storage/2024/06/AI-Security-Whitepaper-Altimetrik.pdf
+
 # blogs-list
-List of Cybersecurity blogs I've written with links. 
+List of Cybersecurity blogs I've written with links for various organizations:
 
 CBEST Explained
 - https://www.altimetrik.com/blog/cbest-framework-explained/
