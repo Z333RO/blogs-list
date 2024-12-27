@@ -15,7 +15,7 @@ List of Cybersecurity blogs I've written with links for various organizations:
 
 
 The Hidden Dangers of AI: Understanding Prompt Injection Attacks
-https://www.altimetrik.com/blog/ai-security-prompt-injection-attacks/
+- https://www.altimetrik.com/blog/ai-security-prompt-injection-attacks/
 
 CBEST Explained
 - https://www.altimetrik.com/blog/cbest-framework-explained/
