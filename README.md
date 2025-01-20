@@ -1,9 +1,9 @@
 # video-content
-Altimetrik Information Security: Expert Insights
-- https://www.youtube.com/watch?v=l4f71YZslV4
-
 Keys to Secure Code: Reducing Risk for Software Teams Pt II 
 - https://www.youtube.com/watch?v=KQ2--Ua4jOI
+
+Down - Vulnlab Video Walkthrough
+- https://rumble.com/v62nc0w-down-vulnlab-walkthrough.html
 
 # white papers
 
