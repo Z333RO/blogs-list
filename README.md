@@ -13,6 +13,8 @@ Altimetrik AI Security: Comprehensive Solutions for Threat Detection, Governance
 # blogs-list
 List of Cybersecurity blogs I've written with links for various organizations:
 
+The Role of GenAI in Cybersecurity - Opportunities and Risks
+- https://www.altimetrik.com/blog/role-of-genai-in-cybersecurity
 
 The Hidden Dangers of AI: Understanding Prompt Injection Attacks
 - https://www.altimetrik.com/blog/ai-security-prompt-injection-attacks/
