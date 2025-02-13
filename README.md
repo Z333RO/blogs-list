@@ -39,7 +39,7 @@ The Altimetrik Guide to Training Security Analysts for Success
 
 # datasheets
 Mobile Application Security Datasheet
-- https://www.altimetrik.com/storage/2024/02/Mobile-Application-Security-Datasheet.pdf
+- https://cdn.prod.website-files.com/6739e34d53821f6427d39c56/675714318488a0ad4c5698cb_Mobile-Application-Security-Datasheet.pdf
 
 ICS - SCADA - OT Datasheet
-- https://www.altimetrik.com/storage/2023/11/Altimetrik_ICS_SCADA_OT.pdf
+- https://cdn.prod.website-files.com/6739e34d53821f6427d39c56/6757125979244e9f84ee6baa_Altimetrik_ICS_SCADA_OT.pdf
