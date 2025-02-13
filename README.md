@@ -8,7 +8,7 @@ Down - Vulnlab Video Walkthrough
 # white papers
 
 Altimetrik AI Security: Comprehensive Solutions for Threat Detection, Governance, and Compliance
-- https://www.altimetrik.com/storage/2024/06/AI-Security-Whitepaper-Altimetrik.pdf
+- https://cdn.prod.website-files.com/6739e34d53821f6427d39c56/675715b60daa833ba2a015eb_AI-Security-Whitepaper-Altimetrik.pdf
 
 # blogs-list
 List of Cybersecurity blogs I've written with links for various organizations:
